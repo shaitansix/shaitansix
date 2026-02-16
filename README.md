@@ -37,7 +37,7 @@
 	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 	<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+</p><hr />
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="margin-top: 12px;" />
 
@@ -50,7 +50,7 @@
 ✔ Self-taught training in Data Science.<br />
 ✔ Experience in Exploratory Data Analysis (EDA).<br />
 ✔ Data extraction through web scraping.<br />
-✔ Development of Machine Learning and Deep Learning models.<br />
+✔ Development of Machine Learning and Deep Learning models.<br /><hr />
 
 <h3>🌐 Contact Me</h3>
 
