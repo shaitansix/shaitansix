@@ -41,7 +41,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="margin-top: 12px;" />
 
-# 🧩 About Me
+<h3>🧩 About Me</h3>
 
 ✔ Systems and Computer Engineering graduate.<br />
 ✔ Experience in full-stack web development.<br />
@@ -52,7 +52,7 @@
 ✔ Data extraction through web scraping.<br />
 ✔ Development of Machine Learning and Deep Learning models.<br />
 
-# 🌐 Contact Me
+<h3>🌐 Contact Me</h3>
 
 <div align="center">
 	<a href="mailto:ccamilo.barrantes.97@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
