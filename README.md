@@ -39,9 +39,9 @@
 	<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-# 🧩 About Me
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="margin-top: 12px;" />
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+# 🧩 About Me
 
 ✔ Systems and Computer Engineering graduate.<br />
 ✔ Experience in full-stack web development.<br />
