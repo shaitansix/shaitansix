@@ -39,12 +39,15 @@
 	<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-# 💫 About Me:
-Ingeniero de Sistemas y Computación.<br />
-Experiencia en desarrollo web full-stack.<br />
-Capaz de crear aplicaciones completas (end-to-end).<br />
-Diseño de elementos visuales personalizados.<br />
-Formación autodidacta en Ciencia de Datos.<br />
-Experiencia en análisis exploratorio de datos (EDA).<br />
-Extracción de información mediante web scraping.<br />
-Construcción de modelos de Machine Learning y Deep Learning.<br />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;# About Me
+
+✔ Systems and Computer Engineering graduate.<br />
+✔ Experience in full-stack web development.<br />
+✔ Capable of building complete (end-to-end) applications.<br />
+✔ Design of custom visual components.<br />
+✔ Self-taught training in Data Science.<br />
+✔ Experience in Exploratory Data Analysis (EDA).<br />
+✔ Data extraction through web scraping.<br />
+✔ Development of Machine Learning and Deep Learning models.<br />
