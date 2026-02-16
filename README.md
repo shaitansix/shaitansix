@@ -18,6 +18,7 @@
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+	<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
@@ -37,3 +38,13 @@
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 	<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+
+# 💫 About Me:
+Ingeniero de Sistemas y Computación.<br />
+Experiencia en desarrollo web full-stack.<br />
+Capaz de crear aplicaciones completas (end-to-end).<br />
+Diseño de elementos visuales personalizados.<br />
+Formación autodidacta en Ciencia de Datos.<br />
+Experiencia en análisis exploratorio de datos (EDA).<br />
+Extracción de información mediante web scraping.<br />
+Construcción de modelos de Machine Learning y Deep Learning.<br />
